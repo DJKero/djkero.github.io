@@ -1,7 +1,13 @@
 ---
-date: "May 06 2024"
+date: 2024-08-09T08:17:12.679Z
+lastmod: 2024-10-28T23:41:35.329Z
 ---
+I am a dedicated Software Developer with 3+ years of experience and a diverse skill set.
+I have a solid understanding of technologies such as C, C++, C# and .NET.
+I’m proficient with Godot and Unity, and I'm interested in learning Zig and Rust, too.
 
-I am a dedicated Software Developer with 2 years of experience and a diverse skill set. I possess proficiency in Unity and Godot, complemented by a solid understanding of technologies such as C, C++, Rust, C# and .NET.  
+Known for being proactive, honest, and direct, I excel in decision-making and have a keen attention to detail, especially in technical aspects. My primary areas of interest include Systems Programming (high-performance, low-latency applications such as Operating Systems and Game Engines) and Cyber Security (Reverse Engineering and Penetration Testing).
 
-My operating system of choice is Bazzite, a custom image built upon Fedora Atomic Desktops. My enthusiasm extends to Free/Libre and Open Source Software (FLOSS) and Open-Source Hardware (OSH). Driven by a desire for excellence, I am commited to continue evolving as a developer.
+I daily drive Bazzite Linux, a custom image built upon Fedora Atomic Desktops. My enthusiasm for technology extends to Free/Libre and Open Source Software (FLOSS) and Open-Source Hardware (OSH). Driven by a desire for excellence, I am commited to continue evolving as a developer.
+
+To get know more about my work experience and background please see the [about]({{< ref "/about" >}} "About") page.
