@@ -6,6 +6,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
+defaultBackgroundImage = "/img/background/fedora_ball.jpg"
+
 [header]
 layout = "basic"
 
@@ -17,7 +19,7 @@ showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = true
 showRecentItems = 6
 showMoreLink = false
@@ -33,7 +35,8 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
+heroStyle = "thumbAndBackground"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
