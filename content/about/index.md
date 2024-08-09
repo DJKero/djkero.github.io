@@ -10,11 +10,15 @@ showTableOfContents: true
 
 {{< timelineItem icon="steam" header="Game Create Repeat" badge="September 2021 – March 2022" subheader="Software Engineer" >}}
 <ul>
-    <li>Gameplay Programming (Unity C#)</li>
+    <li>Gameplay Programming</li>
     <ul>
         <li>Proficient in implementing and optimizing gameplay mechanics, and player interactions to enhance overall gaming experience.</li>
     </ul>
 </ul>
+{{< keywordList >}}
+    {{< keyword icon="code" >}} **Unity (C#)** {{< /keyword >}}
+    {{< keyword icon="gitlab" >}} **GitLab** {{< /keyword >}}
+{{< /keywordList >}}
 {{< /timelineItem >}}
 
 
@@ -29,6 +33,12 @@ showTableOfContents: true
         <li>Collaborative team player with strong communication skills, fostering synergy and achieving collective goals through open dialogue and shared accountability.</li>
     </ul>
 </ul>
+{{< keywordList >}}
+    {{< keyword icon="code" >}} Salesforce {{< /keyword >}}
+    {{< keyword icon="code" >}} Apex {{< /keyword >}}
+    {{< keyword icon="code" >}} Visualforce {{< /keyword >}}
+    {{< keyword icon="code" >}} **Git** {{< /keyword >}}
+{{< /keywordList >}}
 {{< /timelineItem >}}
 
 {{< /timeline >}}
@@ -37,7 +47,7 @@ showTableOfContents: true
 
 {{< timeline >}}
 
-{{< timelineItem icon="code" header="Universidad de Ciencias Empresariales y Sociales" badge="CABA, Argentina" subheader="Systems Engineering" >}}
+{{< timelineItem icon="code" header="UCES" badge="CABA, Argentina" subheader="Systems Engineering" >}}
 <ul>
     <li>Topics</li>
         <ul><li>Computer architecture</li></ul>
@@ -54,12 +64,12 @@ showTableOfContents: true
         <ul><li>Git</li></ul>
         <ul><li>Networks and communication protocols</li></ul>
 </ul>
-<ul>
-    <li>Languages</li>
-        <ul><li>C</li></ul>
-        <ul><li>C++</li></ul>
-        <ul><li>Java</li></ul>
-</ul>
+{{< keywordList >}}
+    {{< keyword icon="code" >}} **C** {{< /keyword >}}
+    {{< keyword icon="code" >}} **C++** {{< /keyword >}}
+    {{< keyword icon="code" >}} Java {{< /keyword >}}
+    {{< keyword icon="github" >}} **GitHub** {{< /keyword >}}
+{{< /keywordList >}}
 {{< /timelineItem >}}
 
 
@@ -72,11 +82,10 @@ showTableOfContents: true
         <ul><li>3D modeling</li></ul>
         <ul><li>Audio recording and editing</li></ul>
 </ul>
-<ul>
-    <li>Languages</li>
-        <ul><li>Actionscript (Adobe Flash)</li></ul>
-        <ul><li>C# (Unity)</li></ul>
-</ul>
+{{< keywordList >}}
+    {{< keyword icon="code" >}} Actionscript (Adobe Flash) {{< /keyword >}}
+    {{< keyword icon="code" >}} **Unity (C#)** {{< /keyword >}}
+{{< /keywordList >}}
 {{< /timelineItem >}}
 
 {{< /timeline >}}
