@@ -9,6 +9,13 @@ showTableOfContents: true
 {{< timeline >}}
 
 {{< timelineItem icon="steam" header="Game Create Repeat" badge="September 2021 – March 2022" subheader="Software Engineer" >}}
+Projects:
+<ul>
+    <li>Fireflies & Figments: A Willow's Journey (<a href="https://store.steampowered.com/app/1853650/Fireflies__Figments_A_Willows_Journey/">Steam</a>)</li>
+    <img alt="Fireflies & Figments Banner" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853650/header.jpg?t=1646671450">
+    
+</ul>
+Skills:
 <ul>
     <li>Gameplay Programming</li>
     <ul>
@@ -23,6 +30,7 @@ showTableOfContents: true
 
 
 {{< timelineItem icon="code" header="Xappia" badge="June 2019 – August 2020" subheader="Software Developer" >}}
+Skills:
 <ul>
     <li>Salesforce Programming</li>
     <ul>
