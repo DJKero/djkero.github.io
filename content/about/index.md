@@ -1,12 +1,43 @@
 ---
 title: About
 date: 2024-05-06T03:00:00.000Z
-lastmod: 2024-10-28T23:41:43.787Z
+lastmod: 2025-05-07T23:32:12.487Z
 showTableOfContents: true
 ---
 ## Work Experience 💼
 
 {{< timeline >}}
+
+{{< timelineItem icon="code" header="No Country" badge="July 2024 – August 2024" subheader="Backend Developer" >}}
+Tasks:
+<ul>
+    <li>Web API development.</li>
+    <li>Authentication and security.</li>
+</ul>
+{{< keywordList >}}
+    {{< keyword icon="code" >}} **ASP.NET Core** {{< /keyword >}}
+    {{< keyword icon="code" >}} ASP.NET Core Identity {{< /keyword >}}
+    {{< keyword icon="code" >}} Entity Framework Core {{< /keyword >}}
+    {{< keyword icon="code" >}} MS SQL Server {{< /keyword >}}
+    {{< keyword icon="code" >}} **GitHub** {{< /keyword >}}
+{{< /keywordList >}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="steam" header="Self-employed" badge="March 2022 – July 2024" subheader="Indie Game Developer" >}}
+Tasks:
+<ul>
+    <li>Game systems programming.</li>
+    <li>Game User Interface design and implementation.</li>
+    <li>Implementation of improvements and new features.</li>
+    <li>Code optimization.</li>
+</ul>
+{{< keywordList >}}
+    {{< keyword icon="code" >}} **Godot** {{< /keyword >}}
+    {{< keyword icon="code" >}} **GDScript** {{< /keyword >}}
+    {{< keyword icon="code" >}} **C++** {{< /keyword >}}
+    {{< keyword icon="gitlab" >}} **GitLab** {{< /keyword >}}
+{{< /keywordList >}}
+{{< /timelineItem >}}
 
 {{< timelineItem icon="steam" header="Game Create Repeat" badge="September 2021 – March 2022" subheader="Software Engineer" >}}
 Projects:
@@ -15,31 +46,29 @@ Projects:
     <img alt="Fireflies & Figments Banner" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853650/header.jpg?t=1646671450">
     
 </ul>
-Skills:
+Tasks:
 <ul>
-    <li>Gameplay Programming</li>
-    <ul>
-        <li>Proficient in implementing and optimizing gameplay mechanics, and player interactions to enhance overall gaming experience.</li>
-    </ul>
+    <li>Game systems programming.</li>
+    <li>Implementation of improvements and new features.</li>
+    <li>Code optimization.</li>
 </ul>
 {{< keywordList >}}
-    {{< keyword icon="code" >}} **Unity (C#)** {{< /keyword >}}
+    {{< keyword icon="code" >}} **Unity** {{< /keyword >}}
+    {{< keyword icon="code" >}} **C#** {{< /keyword >}}
+    {{< keyword icon="code" >}} Visual Studio {{< /keyword >}}
     {{< keyword icon="gitlab" >}} **GitLab** {{< /keyword >}}
+    
 {{< /keywordList >}}
 {{< /timelineItem >}}
 
 
 {{< timelineItem icon="code" header="Xappia" badge="June 2019 – July 2021" subheader="Software Developer" >}}
-Skills:
+Tasks:
 <ul>
-    <li>Salesforce Programming</li>
-    <ul>
-        <li>Skilled in Apex and Visualforce development, creating tailored solutions to meet diverse business needs on the Salesforce platform.</li>
-    </ul>
-    <li>Teamwork</li>
-    <ul>
-        <li>Collaborative team player with strong communication skills, fostering synergy and achieving collective goals through open dialogue and shared accountability.</li>
-    </ul>
+    <li>Website maintenance, including client-requested updates and database migrations in websites and applications.</li>
+    <li>Implementation of improvements and new features.</li>
+    <li>Deployment and maintenance of applications.</li>
+    <li>Code optimization.</li>
 </ul>
 {{< keywordList >}}
     {{< keyword icon="code" >}} Salesforce {{< /keyword >}}
@@ -91,8 +120,9 @@ Skills:
         <ul><li>Audio recording and editing</li></ul>
 </ul>
 {{< keywordList >}}
+    {{< keyword icon="code" >}} **Unity** {{< /keyword >}}
+    {{< keyword icon="code" >}} **C#** {{< /keyword >}}
     {{< keyword icon="code" >}} Actionscript (Adobe Flash) {{< /keyword >}}
-    {{< keyword icon="code" >}} **Unity (C#)** {{< /keyword >}}
 {{< /keywordList >}}
 {{< /timelineItem >}}
 
